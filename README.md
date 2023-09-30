@@ -8,4 +8,4 @@
 6. Имя баккета: "datasets"
 7. Создать
 8. Загрузить в баккет файл "kinopoisk_train.csv"
-9. Открыть и запустить все в "Webinar3.ipynb"
+10. Запустить `train.py`: `cd .. && python train.py`
